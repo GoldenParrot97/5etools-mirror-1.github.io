@@ -1,0 +1,18 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "PlayerssHandbookSpanishTranslation",
+				"abbreviation": "PHBES",
+				"full": "Players's Handbook Spanish Translation",
+				"url": "phbes",
+				"authors": [
+					"Wizards of the Coast"
+				],
+				"convertedBy": [
+					"Goldenparrot"
+				]
+			}
+		]
+	}
+}
